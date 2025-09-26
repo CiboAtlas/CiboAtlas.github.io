@@ -1,8 +1,8 @@
 # Kyle F. Galang
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+Technical Skills: C++, Python, C, Matlab, HTML, Javascript
 
 ### Education
-B.S., Computer Science | University of Central Florida (May 2022)
+B.S., Computer Science | University of Central Florida (Aug. 2022 - May 2026)
 
 ### Work Experience
 Example 
