@@ -2,16 +2,14 @@
 Technical Skills: C++, Python, C, Matlab, HTML, Javascript
 
 ### Background
-I'm currently a senior finishing up my bachelors of science in computer science. I previously worked in the aerospace field as an aerodynamicist from various industries. I previously worked with [Prof. Kareem Ahmed](https://mae.ucf.edu/PERL/) as an undergraduate researcher in the [Propulsion and Energy Laboratory](https://mae.ucf.edu/PERL/) at the University of Central Florida. 
+I'm currently a senior finishing up my Bachelors of Science in Computer Science. I previously worked in the aerospace field as an aerodynamicist from various industries. I previously worked with [Prof. Kareem Ahmed](https://mae.ucf.edu/PERL/) as an undergraduate researcher in the [Propulsion and Energy Laboratory](https://mae.ucf.edu/PERL/) at the University of Central Florida. 
 
 ### Education
 B.S., Computer Science | University of Central Florida (Aug. 2022 - May 2026)
 
-### Work Experience
-Example 
-- bullet 1
-- bullet 2
-- bullet 3
+### Ongoing Projects
+## Algorithms for Uncorrelated Track Processing 
+Collaborating with Airforce Research Laboratory researchers and a 5-person undergraduate student team to design and benchmark uncorrelated track processing (UCTP) algorithms for satellite data, leveraging the Google Gemini API to query into OpenEvolve LLM and improve evaluation accuracy. Currently we are evaluating through small problem sets to configure functions for UCTP, then convert into larger scale formats in a high-performance computing cluster using Nvidia SuperPOD to test on larger scale datasets.
 
 ### References
 - NASA Aeronautics Analysis Branch Head, Patricia C. Glaab: Patricia.c.glaab@nasa.gov
