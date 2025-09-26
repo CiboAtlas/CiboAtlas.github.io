@@ -12,5 +12,5 @@ Collaborating with Airforce Research Laboratory researchers and a 5-person under
 - NASA Aeronautics Analysis Branch Supersonic Lead, [Mathias Wintzer](https://sacd.larc.nasa.gov/asabteam/): Mathias.wintzer@nasa.gov
 - NASA Aerospace Vehicle Design, [Ryan M. Palma](https://sacd.larc.nasa.gov/asabteam/): Ryan.m.palma@nasa.gov
 - Lockheed Martin Senior Stability & Control Engineer, Ruth Ann Francis: ruthann.francis@lmco.com
-- Lockheed Martin Aeronautics Maintenance Systems Manager, Anthony Mondone: anthony.mondone@lmco.com
-- Lockheed Martin Aeronautics Senior Software Engineer, Elliot Rodriguez: elliot.rodriguez@lmco.com
+- Lockheed Martin Maintenance Systems Manager, Anthony Mondone: anthony.mondone@lmco.com
+- Lockheed Martin Senior Software Engineer, Elliot Rodriguez: elliot.rodriguez@lmco.com
