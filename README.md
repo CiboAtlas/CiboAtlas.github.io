@@ -2,7 +2,7 @@
 Technical Skills: C++, Python, C, Matlab, HTML, Javascript
 
 ### Background
-I'm currently a senior finishing up my bachelors of science in computer science. I previously worked in the aerospace field as an aerodynamicist from various industries and undergraduate research in the Propulsion and Energy Laboratory at the University of Central Florida. 
+I'm currently a senior finishing up my bachelors of science in computer science. I previously worked in the aerospace field as an aerodynamicist from various industries and undergraduate research in the [Propulsion and Energy Laboratory](https://mae.ucf.edu/PERL/) at the University of Central Florida. 
 
 ### Education
 B.S., Computer Science | University of Central Florida (Aug. 2022 - May 2026)
