@@ -1,6 +1,6 @@
-I'm currently a senior finishing up my Bachelors of Science in Computer Science. I previously worked in the aerospace field as an aerodynamicist from various industries. I previously worked with [Prof. Kareem Ahmed](https://mae.ucf.edu/person/kareem-ahmed/) as an undergraduate researcher in the [Propulsion and Energy Laboratory](https://mae.ucf.edu/PERL/) at the University of Central Florida. 
+I'm currently a senior finishing up my Bachelors of Science in Computer Science. I've worked in the aerospace field as an aerodynamicist from various industries for the past two years. I previously worked with [Prof. Kareem Ahmed](https://mae.ucf.edu/person/kareem-ahmed/) as an undergraduate researcher in the [Propulsion and Energy Laboratory](https://mae.ucf.edu/PERL/) at the University of Central Florida. 
 
-Today, with the current state of technology, more software is being implemented into different industries leading to the transformation of workflows and how data is stored and accessed. Previously working in the aerospace industry, I'm inspired to work with modern technology and support the building of large-scale, highly-distributed systems. 
+Today, with the current state of technology, more software is being implemented into different industries leading to the transformation of workflows and how data is stored and accessed. Previously working in the aerospace industry, I'm inspired to work with modern technology and support the building of large-scale, highly-distributed systems and transition to a more software developing role for full-time employment. 
 
 ## Education
 B.S., Computer Science | University of Central Florida (Aug. 2022 - May 2026)
